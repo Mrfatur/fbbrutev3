@@ -15,12 +15,12 @@ HT = '''
         +=======================================+
         |..........Facebook Cracker v 3.........|
         +---------------------------------------+
-        |#Author: Mr.Froggy                     |
-        |#Contact: Behind you ^_^               |
-        |#Modifed by : Mr.Froggy                |
+        |#Author: DAVID.                        |
+        |#Contact: mhanifmarribaloch@gmail.com ^_^               |
+        |#Modifed by : Anonymous.               |
         |#This tool is made for pentesting.     |
-        |#Changing the Description of this tool |
-        |Won't made you the coder ^_^ !!!       |
+        |#Forgot The Past.                      |
+        | Reference by USAMA SAAD ^_^ !!!       |
         |#Respect Coderz ^_^                    |
         |#I take no responsibilities for the    |
         |  use of this program !                |
